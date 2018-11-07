@@ -15,7 +15,7 @@ mongoose.connect('mongodb://admin:admin123@ds155313.mlab.com:55313/base-goweek',
 app.use((req, res, next) => {
     req.io = io;
 
-    return next;//para não interrouper o processo
+    return next();//para não interrouper o processo
 });
 
 app.use(cors());
