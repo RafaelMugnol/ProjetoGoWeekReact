@@ -1,0 +1,4 @@
+express -> gerencia as rotas
+mongoose -> orm para mongodb
+nodemon -> para recarregar automaticamente quando salvamos
+socket.ui -> controle do realtime
