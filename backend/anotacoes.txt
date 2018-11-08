@@ -2,3 +2,7 @@ express -> gerencia as rotas
 mongoose -> orm para mongodb
 nodemon -> para recarregar automaticamente quando salvamos
 socket.ui -> controle do realtime
+
+https://github.com/Rocketseat/ambiente-react-native
+
+21:26 olhar um pouco mais (local storege)
