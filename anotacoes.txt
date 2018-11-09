@@ -1,0 +1,31 @@
+
+
+Redux 
+	para compartilhar o state entre componentes
+	
+Redux saga
+	para consumir apis de uma forma melhor
+	
+Styled component
+
+
+Testes
+	Mocka
+	tchay
+	
+	RN - jast (criada pelo facebook) 
+	
+	
+Deploy
+
+	PM2
+	engiane -> proxy de portas
+	
+	
+GraphyQL
+	É legal pra utilizar também, pra deixar a responsabilidade para o front end
+	Retorna apenas os campos nessario
+	É possivel realizar varias consultas em uma requisição
+	
+	
+BootcampA -> assinatura vitalicea
