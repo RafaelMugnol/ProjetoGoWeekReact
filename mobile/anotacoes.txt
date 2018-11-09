@@ -1,0 +1,7 @@
+react-native init mobile
+
+yarn add react-navigation
+
+react-native run-android
+
+react-native start --reset-cache
